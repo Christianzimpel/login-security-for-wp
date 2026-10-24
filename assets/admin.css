@@ -1,0 +1,38 @@
+.lsfw-wrap h1 .dashicons {
+	width: 30px;
+	height: 30px;
+	font-size: 30px;
+	vertical-align: middle;
+	color: #2271b1;
+}
+
+.lsfw-card {
+	max-width: 720px;
+	margin: 16px 0;
+	padding: 4px 16px;
+	background: #fff;
+	border: 1px solid #c3c4c7;
+	border-left: 4px solid #dba617;
+}
+
+.lsfw-card--active {
+	border-left-color: #00a32a;
+}
+
+.lsfw-login-link {
+	font-size: 15px;
+	word-break: break-all;
+}
+
+.lsfw-url {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 4px;
+}
+
+.lsfw-list {
+	max-width: 720px;
+	list-style: disc;
+	padding-left: 20px;
+}

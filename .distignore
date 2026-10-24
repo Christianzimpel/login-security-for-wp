@@ -1,0 +1,15 @@
+/.git
+/.github
+/.wordpress-org
+/translations
+/vendor
+/node_modules
+/build
+.distignore
+.gitignore
+.gitattributes
+composer.json
+composer.lock
+phpcs.xml.dist
+README.md
+LICENSE
